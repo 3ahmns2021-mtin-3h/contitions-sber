@@ -1,10 +1,10 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+this was an failed attempt on conditions 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity Version 2020.1.5f1
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -19,10 +19,10 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+0%
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Simon M. Berger
