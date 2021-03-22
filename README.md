@@ -5,6 +5,7 @@ this was an failed attempt on conditions
 
 ### Development platform: 
 Unity Version 2020.1.5f1
+Visual Studio 2019
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
